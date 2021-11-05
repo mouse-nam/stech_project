@@ -1,0 +1,19 @@
+.container {
+    margin-bottom: 40px;
+}
+
+.card {
+    box-shadow: 3px 3px 12px grey;
+    height: 300px;
+    width: 30%;
+}
+
+.card-deck {
+    margin-bottom: 20px;
+}
+
+.card img {
+    height: 300px;
+    width: 101%;
+    padding: 2px;
+}
